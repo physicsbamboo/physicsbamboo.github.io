@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : " "
+title                    : "Zhuyao Wang"
 title_separator          : "-"
 name                     : &name "Zhuyao Wang"
 description              : &description "personal description"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "physicsbamboo"
   google_plus      :
   keybase          :
   instagram        :
