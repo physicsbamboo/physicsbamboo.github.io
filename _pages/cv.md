@@ -19,7 +19,7 @@ Education
 Skills
 ======
 * Programming languages: 
-  * C++, C, Python, Fortran, 
+  * C++, C, Python, Fortran 
 * Software packages: 
   * Root, Matlab, Xshell, LaTeX, Mathematica, LABVIEW
 * Astrophysics packages: CAMB, CosmoMC, Cobaya, CosmoRec
