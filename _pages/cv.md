@@ -15,7 +15,7 @@ Education
 * M.S. in Physics, Northeastern University, 2020
 * Ph.D in Particle Physics, Northeastern University, 2023 (expected)
 
-#Work experience
+{#Work experience
 #======
 #* Summer 2015: Research Assistant
 #  * Github University
@@ -25,7 +25,7 @@ Education
 #* Fall 2015: Research Assistant
 #  * Github University
 #  * Duties included: Merging pull requests
-#  * Supervisor: Professor Hub
+#  * Supervisor: Professor Hub}
   
 Skills
 ======
